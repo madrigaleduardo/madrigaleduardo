@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!👋 I'm Eduardo Madrigal, a 32 years old Python developer from Mexico
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigaleduardo)](https://github.com/madrigaleduardo/github-readme-stats)
 
