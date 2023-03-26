@@ -1,12 +1,12 @@
 ### Hey!👋 I'm Eduardo Madrigal, a 32 years old Python developer from Mexico
 
-<h1 align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigaleduardo)](https://github.com/madrigaleduardo/github-readme-stats) </h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigaleduardo)](https://github.com/madrigaleduardo/github-readme-stats)
 
 
 <h1 align="center">Hey 👋, I'm Eduardo Madrigal</h1>
 <h3 align="center">32 years old Python developer from Mexico</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: eduard_350@hotmail.com</h3>
 <p align="left">
 </p>
 
