@@ -15,3 +15,9 @@
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrigaleduardo" />
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrigaleduardo" />
+  </div>
+</div>
